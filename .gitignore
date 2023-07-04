@@ -1,0 +1,5 @@
+venv
+# exclude any drivers downloaded to repo
+*driver*/
+.vscode
+**/.vscode/
