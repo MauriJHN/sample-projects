@@ -7,6 +7,7 @@ import sys
 import os
 
 
+# TODO: make this a prompt instead of an argument
 CUSTOM_FILENAME = ""
 CATEGORY_MAPPING = "categories.json"
 STMTS_DIR = "statements"
