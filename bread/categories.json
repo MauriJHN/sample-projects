@@ -1,4 +1,35 @@
 {
+    "Entertainment": [
+        "cineplex",
+        "cnb",
+        "klub khrome",
+        "blizzard entertainment"
+    ],
+    "Groceries": [
+        "costco wholesale",
+        "walmart",
+        "wal-mart",
+        "sobeys",
+        "victory meat market",
+        "alcool nb",
+        "dollarama",
+        "pais"
+    ],
+    "Monthly Car Expenses": [
+        "costco gas",
+        "subaru finance",
+        "subaru"
+    ],
+    "Monthly Subscriptions": [
+        "netflix",
+        "spotify",
+        "google*youtube music internet",
+        "microsoft*ultimate",
+        "google*youtube member"
+    ],
+    "Phone Service": [
+        "public mobile"
+    ],
     "Restaurants": [
         "doordash",
         "papa johns",
@@ -20,41 +51,11 @@
         "taco boyz",
         "dairy queen"
     ],
-    "Groceries": [
-        "costco wholesale",
-        "walmart",
-        "wal-mart",
-        "sobeys",
-        "victory meat market",
-        "alcool nb",
-        "dollarama"
-    ],
-    "Phone Service": [
-        "public mobile"
-    ],
-    "Monthly Subscriptions": [
-        "netflix",
-        "spotify",
-        "google*youtube music internet",
-        "microsoft*ultimate",
-        "google*youtube member"
-    ],
-    "Entertainment": [
-        "cineplex",
-        "cnb",
-        "klub khrome",
-        "blizzard entertainment"
-    ],
     "Transport": [
         "trius taxi",
         "taxi",
         "checker cab",
         "cab",
         "maritime bus"
-    ],
-    "Monthly Car Expenses": [
-        "costco gas",
-        "subaru finance",
-        "subaru"
     ]
 }
