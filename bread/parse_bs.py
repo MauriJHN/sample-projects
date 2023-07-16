@@ -143,6 +143,8 @@ def output_data_to_file(new_data):
 
 
 def main():
+    # TODO: clean up main function to ask for column and row number for each statement
+    # TODO: modify docstrings for every function
     new_data = []
     stmt_filenames = get_statement_filenames()
     date_column = get_number_input("Column number with date of transaction: ")
